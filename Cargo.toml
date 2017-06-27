@@ -1,0 +1,8 @@
+[package]
+name = "roguelikedev-does-the-complete-roguelike-tutorial"
+version = "0.1.0"
+authors = ["as-f <as-f@users.noreply.github.com>"]
+build = "build.rs"
+
+[dependencies]
+bear-lib-terminal = "1.3.3"
